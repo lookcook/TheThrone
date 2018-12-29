@@ -1,0 +1,7 @@
+REGULATIONS
+COURT ATTENDANT
+Your majesty, <name>. The church wants us to create more regulations to govern peoples lives.
+1: Ignore the church.
+2: Create more laws.
+HAPPINESS +10, RELIGION -10
+HAPPINESS -10, RELIGION +10

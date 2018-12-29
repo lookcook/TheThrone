@@ -1,0 +1,7 @@
+War never changes.
+GENERAL
+Sir, we fought until the very end  like you requested us to. Unfortunately, what we could take from the enemy was less than what they offered us in the surrender. On top of this, the church is now mad at us for not accepting the surrender.
+1: Oh...
+2: Oh...
+ECONOMY +10, RELIGION -10, HAPPINESS +10, MILITARY +5, PLOTLINE NORMAL
+ECONOMY +10, RELIGION -10, HAPPINESS +10, MILITARY +5, PLOTLINE NORMAL

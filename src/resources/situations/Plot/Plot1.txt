@@ -1,0 +1,7 @@
+INVASION!
+GENERAL
+Your majesty, we are under attack from our neighbours in the south! They are demanding that we surrender 20% of our treasury.
+1: Surrender.
+2: Send the military to deal with them.
+ECONOMY -20, PLOTLINE NORMAL
+MILITARY -10, PLOTLINE Invasion

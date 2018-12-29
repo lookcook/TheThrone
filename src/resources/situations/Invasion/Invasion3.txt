@@ -1,0 +1,7 @@
+INVASION!
+GENERAL
+Unfortunately some soldiers acted dishonourably in enemy territory. The church demands we end this war immediately to deal with them. The enemy is now only asking for 5% of our treasury.
+1: Surrender.
+2: Keep fighting.
+RELIGION +10, ECONOMY -5, PLOTLINE NORMAL
+RELIGION -10

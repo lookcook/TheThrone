@@ -1,0 +1,7 @@
+HERETICS
+BISHOP
+For awhile now peasants have been spreading heresy. So much that local nobility have been taken by this. However recently, when one of our tithe collectors went to collect levies from a heretical town, he was burned to a stake. We need you to intervene. 
+1: We will put the heretics down.
+2: I'm sure we can negotiate.
+MILITARY -10, RELIGION +15
+RELIGION -20

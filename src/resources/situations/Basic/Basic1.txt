@@ -1,0 +1,7 @@
+FESTIVAL
+COURT ATTENDANT
+Your majesty, <name>. The people are growing weary of their working conditions. Shall we throw a festival for them?
+1: No, let them complain.
+2: Sure, let them celebrate!
+HAPPINESS -10, ECONOMY +10
+HAPPINESS +10, ECONOMY -10

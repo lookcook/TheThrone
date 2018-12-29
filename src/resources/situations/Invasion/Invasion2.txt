@@ -1,0 +1,7 @@
+INVASION!
+GENERAL
+Sir, the troops are starving on the front lines. We need more money to pay for the food. The enemy now demands that we surrender 10% of our treasury.
+1: Surrender.
+2: Send food to troops.
+ECONOMY -10, PLOTLINE NORMAL
+ECONOMY -10

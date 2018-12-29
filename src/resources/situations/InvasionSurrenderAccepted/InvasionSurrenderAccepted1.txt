@@ -1,0 +1,7 @@
+VICTORY!
+GENERAL
+Your majesty, <name>, today is a great day for our kingdom. We have accepted the surrender and our troops are back home.
+1: Very nice.
+2: Very nice.
+ECONOMY +15, RELIGION +15, HAPPINESS +15, MILITARY +15, PLOTLINE NORMAL
+ECONOMY +15, RELIGION +15, HAPPINESS +15, MILITARY +15, PLOTLINE NORMAL

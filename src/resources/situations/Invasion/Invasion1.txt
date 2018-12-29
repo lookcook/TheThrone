@@ -1,0 +1,7 @@
+INVASION!
+GENERAL
+Sir, our troops are missing their families back at home. The people are growing unhappy about this war. The enemy is now demanding that we surrender 15% of the treasury.
+1: Surrender.
+2: Keep fighting.
+ECONOMY -15, PLOTLINE NORMAL
+HAPPINESS -10

@@ -1,0 +1,7 @@
+BRIBES
+PEASANT
+My towns mayor has been extracting high taxes from us. Last year our crops failed Please give us relief. 
+1: It shall be done.
+2: Begone peasant.
+HAPPINESS +10, ECONOMY -10
+HAPPINESS -10, ECONOMY +10

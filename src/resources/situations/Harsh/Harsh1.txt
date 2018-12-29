@@ -1,0 +1,7 @@
+STOLEN GOODS
+THIEF
+<name>, do you want $400? The money was obtained through honest means.
+1: Sure, free money!
+2: I'd rather DIE than accept that.
+ECONOMY +15
+DEATH You_fool.

@@ -1,0 +1,7 @@
+PARADE
+COURT ATTENDANT
+To celebrate our wonderful kingdom, should we throw a military parade?
+1: No, that's too wasteful.
+2: Go ahead!
+HAPPINESS -10, MILITARY +10
+HAPPINESS +10, MILITARY -10

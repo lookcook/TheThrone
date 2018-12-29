@@ -1,0 +1,7 @@
+ROBBER BARONS
+MERCHANT
+Your nobles are taxing us illegally when we travel. These tolls have no authority, can you enforce the law of the land?
+1: I will enforce them.
+2: The nobles can do what they want.
+ECONOMY +10, MILITARY -10
+ECONOMY -10, MILITARY +10

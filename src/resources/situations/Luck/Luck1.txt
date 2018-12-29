@@ -1,0 +1,7 @@
+COIN TOSS
+GAMBLER
+Interested in a coin toss, your majesty? If heads, I win $100. If tails then you win.
+1: Get away from me.
+2: Go ahead, toss it.
+NONE
+ECONOMY +15

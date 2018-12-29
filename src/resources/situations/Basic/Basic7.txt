@@ -1,0 +1,7 @@
+SECRETS OF THE UNIVERSE
+#?#?#?#?
+Is 42 the answer to the universe, life, and everything?
+1: Yes
+2: No
+RELIGION -20, HAPPINESS +10, ECONOMY +10
+RELIGION +20, HAPPINESS -10, ECONOMY -10

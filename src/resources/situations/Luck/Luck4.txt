@@ -1,0 +1,7 @@
+COMET SUPERSTITIONS
+COURT ATTENDANT
+A fiery comet just shot over the kingdom. The people have interpreted this as a sign of good luck.
+1: Oh...
+2: Oh...
+HAPPINESS +5
+HAPPINESS +5

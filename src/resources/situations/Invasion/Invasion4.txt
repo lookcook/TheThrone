@@ -1,0 +1,7 @@
+INVASION!
+GENERAL
+The troops finally reached the capital, they are offering to surrender. They will agree to convert to our religion and give 15% of their resources to us. Do we accept the surrender?
+1: Accept the surrender.
+2: Kill every last one one of them.
+PLOTLINE InvasionSurrenderAccepted
+PLOTLINE InvasionSurrenderDenied
